@@ -31,7 +31,6 @@ RODANDO O PROJETO MOBILE
 * yarn start => para inicializar o projeto
 * yarn android => para executar o projeto no emulador android
 * yarn ios => Para executar no emulador iOS
-> lembre-se de trocar o IP pelo da sua rede no seguintes arquivos: api.js
 
 ## Feito por Carlos Ferreira
 * [github](https://www.github.com/CarlosSTS)
