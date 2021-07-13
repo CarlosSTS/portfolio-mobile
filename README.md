@@ -15,6 +15,9 @@ O app contém os seguintes módulos
 * uma tela com uma webView para exibir mais informações do repositório clicado
 * uma tela que redireciona o usuário para uma das minhas redes sociais quando clicado 
 
+## Explicação do aplicativo no LinkedIn
+* [Explicação do aplicativo](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_portfolio-reactnative-react-activity-6789296181450166272-ruob)
+
 ## Páginas do app
 ![Foto do App tela1](https://github.com/CarlosSTS/portfolioMobile/blob/master/images/screen1.jpg)
 ![Foto do App tela2](https://github.com/CarlosSTS/portfolioMobile/blob/master/images/screen2.jpg)
