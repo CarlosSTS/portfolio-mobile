@@ -19,10 +19,8 @@ const GithubStackRoutes = () => {
       />
 
       <Stack.Screen name="OpenGithub" component={OpenGithub}
-        options={({ route }) => {
-          return ({ title: route.params.name || route.params.stars.name }
-          )
-        }}
+        options={() => ({ title: 'Meu Perfil' }
+        )}
       />
 
       <Stack.Screen name="FavoriteRepos" component={FavoriteRepos}
