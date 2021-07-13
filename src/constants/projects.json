@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "ALUGUE APP",
+    "description": "INTERFACE E BACKEND DO APP ALUGUE",
+    "html_url": "https://github.com/CarlosSTS/ALUGUE"
+  },
+  {
+    "id": 2,
+    "name": "LOGINBASE",
+    "description": "AUTENTICAÇÃO DE LOGIN, LOGOUT E CADASTRO USANDO FIREBASE",
+    "html_url": "https://github.com/CarlosSTS/loginBase"
+  },
+  {
+    "id": 3,
+    "name": "GITLIST APP",
+    "description": "UM APLICATIVO FEITO PARA ADICIONAR E LISTAR USUÁRIOS DO GITHUB E SEUS REPOSITÓRIOS FAVORITOS USANDO A API REST DO GITHUB",
+    "html_url": "https://github.com/CarlosSTS/GitList-App"
+  },
+  {
+    "id": 4,
+    "name": "ACQUA MOBILE",
+    "description": "APP PARA COMÉRCIOS DE ÁGUA. FOI DESENVOLVIDO PARA FACILITAR O FLUXO DE LUCRO E GESTÃO DE ROTAS DE COMERCIANTES DE ÁGUA E AFINS.",
+    "html_url": "https://github.com/CarlosSTS/AcquaMobile"
+  }
+]
