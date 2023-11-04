@@ -1,4 +1,4 @@
-# portfolio-mobile 
+# Portfolio-mobile 
 1. A versão mobile do meu portfólio
 2. O aplicativo trabalha com webView,envio de E-mail e um link externo para meu linkedIn e instagram.
 > Uso de fonts externas ([Roboto](https://fonts.google.com/specimen/Roboto)) do google fonts.
