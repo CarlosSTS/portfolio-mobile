@@ -25,26 +25,26 @@ O app contém os seguintes módulos
 
 <table>
   <tr>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fportfolio-mobile%2Fscreen1.png?alt=media&token=e6310194-a027-431d-a6ae-892b06bfb037" alt="Foto do App 1" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fportfolio-mobile%2Fscreen2.png?alt=media&token=76ba678d-5fa0-48f0-ae78-d6619c5d93f9" alt="Foto do App 2" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fportfolio-mobile%2Fscreen3.png?alt=media&token=1d7e4652-0e34-4407-975f-a3312e06b29e" alt="Foto do App 3" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/portfolio-mobile/screen1.png" alt="Foto do App 1" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/portfolio-mobile/screen2.png" alt="Foto do App 2" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/portfolio-mobile/screen3.png" alt="Foto do App 3" width="360" /></td>
 
 </tr>
 </table>
 
 <table>
   <tr>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fportfolio-mobile%2Fscreen4.png?alt=media&token=aaebdf91-86e1-45c7-a7bb-2d9424392474" alt="Foto do App 4" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fportfolio-mobile%2Fscreen5.png?alt=media&token=a3bab95a-1c92-479c-a766-9b78cc1a9532" alt="Foto do App 5" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fportfolio-mobile%2Fscreen6.png?alt=media&token=d076357c-2037-430b-883a-5a055745005d" alt="Foto do App 6" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/portfolio-mobile/screen4.png" alt="Foto do App 4" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/portfolio-mobile/screen5.png" alt="Foto do App 5" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/portfolio-mobile/screen6.png" alt="Foto do App 6" width="360" /></td>
 
 </tr>
 </table>
 
 <table>
   <tr>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fportfolio-mobile%2Fscreen7.png?alt=media&token=e36ae1d8-25e9-4f77-9900-cdc0cc439697" alt="Foto do App 7" width="360" /></td>
-<td><img src="https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Fportfolio-mobile%2Fscreen8.png?alt=media&token=e5c853ba-7ce8-4cb1-bfa8-00df69be4ccb" alt="Foto do App 8" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/portfolio-mobile/screen7.png" alt="Foto do App 7" width="360" /></td>
+<td><img src="https://res.cloudinary.com/dbw8igay3/image/upload/github_projects/portfolio-mobile/screen8.png" alt="Foto do App 8" width="360" /></td>
 
 </tr>
 </table>
@@ -61,5 +61,5 @@ RODANDO O PROJETO MOBILE
 ## Feito por Carlos Ferreira
 
 - [Github](https://www.github.com/CarlosSTS)
-- [Email](mailto://carlossts826@gmail.com)
+- [Email](mailto://carlossts.dev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/carlos-ferreira-4b2ba219a/)
